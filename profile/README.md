@@ -1,5 +1,5 @@
 # About
-"Agrobit" LLC is a resident of the Skolkovo Innovation Center. 
+"Agrobit" LLC is a resident of Skolkovo Innovation Center. 
 
 We are carrying out research, design and production activities to bring multifunctional robotic systems to agricultural and farming business.
 
